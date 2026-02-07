@@ -1,0 +1,8 @@
+Stimulus Overview:
+The image captures a scene from a crowded political protest or rally. In the foreground, a prominent rainbow Pride flag is on the left, and a person is holding a sign that reads "WHEN WE COUNT, DEMOCRACY WINS". The crowd consists of many people, most of whom are wearing face masks. In the background, other flags are visible, including American flags and a "TRUMP" flag, suggesting a politically complex or counter-protest environment.
+
+Behavioral Analysis:
+The user's visual engagement began by immediately focusing on the protest sign, indicating an intent to read and understand the primary textual message of the scene. After processing the sign, the scanpath moved to the arm holding it before jumping to the background to identify other key symbols. The user then systematically fixated on the smaller rainbow flag and the "TRUMP" flag, showing an exploratory pattern aimed at understanding the different political symbols and affiliations present in the crowd. The journey concluded with brief, cursory glances at individuals in the crowd, suggesting the primary interest was in the signs and symbols rather than the people.
+
+Key Insight:
+The hero element was the protest sign reading "WHEN WE COUNT, DEMOCRACY WINS". It served as the initial point of fixation, drawing the user's attention first and holding it long enough to be read before the user began exploring the rest of the scene for additional context.

@@ -1,0 +1,8 @@
+Stimulus Overview:
+The image is a digitally manipulated photograph set in a dimly lit public space, likely an airport or transit station. The central focus is on two men dressed in traditional Haredi Jewish attire. The man in the center has had his lower body replaced with that of a person wearing red panties, creating a stark and surreal contrast. Other people and a wheelchair are visible in the surrounding scene.
+
+Behavioral Analysis:
+The user's visual journey begins by immediately fixating on the most incongruous part of the image: the central figure's lower body. This indicates a bottom-up attentional capture, where a salient and unexpected feature demands initial focus. After processing this central element, the gaze briefly moves along the railing before shifting to the second man on the left. This secondary fixation serves to gather context, comparing the manipulated figure to the non-manipulated one, which reinforces the absurdity of the central subject. The scanpath is driven by anomaly detection rather than a structured reading pattern.
+
+Key Insight:
+The "Hero Element" is the digitally-inserted lower body of the central figure wearing red underwear. It was the first and primary point of fixation, and the subsequent eye movements were oriented around understanding its context within the scene.

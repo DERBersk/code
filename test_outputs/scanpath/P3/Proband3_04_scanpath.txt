@@ -1,0 +1,8 @@
+Stimulus Overview:
+The image is a collage composed of multiple photographs of cute animals, presented with a dark, muted, and soft aesthetic. The animals featured include a corgi, a Dalmatian, a small pink bird, two fawns, a calf, a piglet, ducklings, a rabbit with a flower on its head, an alpaca, a cat, and a golden retriever puppy. The overall theme is gentle, wholesome, and endearing.
+
+Behavioral Analysis:
+The user's visual journey begins with the most prominent and centrally located animal at the bottom of the frame: the smiling corgi. After a one-second fixation, the gaze moves left to the Dalmatian. The scan path then jumps to the small pink bird perched above the corgi, followed by a move to the right to observe a fawn resting in flowers. The user then fixates on a second, standing fawn to the left before their gaze travels upwards to the calf in the upper portion of the collage. The user dedicates roughly equal dwell time (approximately one second) to each animal, indicating a methodical survey of the various subjects within the collage.
+
+Key Insight:
+The Hero Element is the corgi. It served as the initial point of engagement, anchoring the user's attention before they began to explore the rest of the image. Its central position, forward-facing pose, and joyful expression make it the most powerful focal point, successfully capturing the viewer's interest from the very first moment.

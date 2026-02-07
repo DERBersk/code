@@ -1,0 +1,8 @@
+Stimulus Overview:
+The stimulus is a digital collage with a dark, moody aesthetic, often referred to as "dark academia." It comprises multiple images related to intellectual pursuits, self-care, and ambition. Key visible elements include a typewriter, handwritten motivational text, a coffee and croissant, a basket of bread, and images depicting a studious or cozy lifestyle.
+
+Behavioral Analysis:
+The user's visual behavior is exploratory, moving between distinct pictorial elements rather than following a structured reading pattern. The scanpath begins with a fixation on an image of a person in a dimly lit, studious environment. The gaze then shifts decisively to a contrasting object representing wealth before moving to a final fixation on an image of a person in a leisurely, outdoor setting. This sequence suggests the user is comparing different aspirational themes presented within the collage: intellectual life, financial success, and physical freedom.
+
+Key Insight:
+The hero element was the stack of US dollar bills tied with a pink ribbon. While the user viewed other elements, this object captured significant attention due to its high symbolic value and contrast with the surrounding aesthetic. It served as a conceptual pivot in the user's visual journey, shifting their attention from a theme of quiet study to one of material reward and then to leisure.

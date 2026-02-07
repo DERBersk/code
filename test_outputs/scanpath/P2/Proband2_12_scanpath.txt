@@ -1,0 +1,8 @@
+Stimulus Overview:
+The image is a social media post, likely a tweet, making a critical comment. It juxtaposes two images of the singer Katy Perry. The text at the top claims that in April 2025, she "burned 498 tons of fuel to do space tourism" and then "today she arrived in Davos to raise awareness about the 'environment'." The image on the left shows Perry in a blue spacesuit. The image on the right shows her walking alongside Canadian Prime Minister Justin Trudeau at an event.
+
+Behavioral Analysis:
+The user's gaze first lands on Katy Perry's face in the left-hand image. The user then moves to the text, scanning the second line ("Today she arrived in Davos...") before jumping up to read the first line ("In April 2025..."). This suggests an attempt to quickly grasp the main point before reading for full context. After reading all the text, the user's attention shifts to the right-hand image, moving from Katy Perry to fixate on the face of Justin Trudeau.
+
+Key Insight:
+The Hero Element is the face of Justin Trudeau. After initially being drawn to Katy Perry's face, the user engaged with the text to understand the post's narrative. Once the context of alleged hypocrisy was established, the user’s final and most sustained fixation was on the other recognizable public figure in the image, suggesting that the association between Perry, her environmental advocacy, and a world leader was the most engaging aspect of the meme.

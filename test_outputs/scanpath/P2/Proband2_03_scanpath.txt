@@ -1,0 +1,8 @@
+Stimulus Overview:
+The image captures a scene from a crowded outdoor protest or rally. Many participants are wearing face masks. A large rainbow Pride flag is prominently displayed on the left, while smaller American flags and other protest signs are visible in the background. The overall image is desaturated, drawing attention to the highlighted elements.
+
+Behavioral Analysis:
+The user’s visual journey begins by immediately focusing on the protest sign in the center of the frame, which reads, "WHEN WE COUNT, DEMOCRACY WINS". The gaze dwells there for approximately two seconds, indicating the user is reading the text. Next, the user’s attention shifts to the large, colorful rainbow Pride flag on the left, holding focus on it for another two seconds. The scanpath concludes with two very brief, rapid fixations on individual people in the more distant crowd, suggesting a quick scan for other details after processing the main subjects.
+
+Key Insight:
+The hero element is the protest sign that reads, "WHEN WE COUNT, DEMOCRACY WINS". It was the first object the user fixated on and held their attention for a significant duration, suggesting their primary goal was to understand the explicit message and purpose of the event depicted.

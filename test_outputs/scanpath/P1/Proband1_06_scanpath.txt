@@ -1,0 +1,8 @@
+Stimulus Overview:
+The image displays a dimly lit, cozy living room decorated in a bohemian or eclectic style. The scene features a dark green velvet sofa with various pillows, in front of a gallery wall filled with assorted framed art, prints, and mirrors. A rustic wooden coffee table sits in the foreground with a lit candle and an open book. To the right, there are shelves with decorative objects and a large potted plant. The overall atmosphere is warm and inviting.
+
+Behavioral Analysis:
+The user's visual journey begins in the lower center of the image, with a brief fixation on the candle and book on the coffee table. Their gaze then makes a large jump upwards to the gallery wall. The user systematically inspects individual items on the wall, first fixating on a small gold-framed mirror, then another mirror slightly above it, followed by a botanical print below. After examining these specific frames, their gaze performs a quick, broad scan across the upper right section of the wall and shelves before coming to rest on a small decorative object on the top shelf. The scanpath indicates an interest in the room's decor, moving from a general starting point to a detailed examination of specific decorative elements.
+
+Key Insight:
+The Hero Element is the small, white, house-shaped object on the top shelf. After scanning several larger and more centrally located items on the gallery wall, the user's gaze settled on this specific detail for a sustained period, making it the final point of focused interest in the viewing session.

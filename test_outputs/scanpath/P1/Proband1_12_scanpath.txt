@@ -1,0 +1,8 @@
+Stimulus Overview:
+The stimulus is a social media post, likely a tweet, making a critical comment about celebrity environmentalism. The post's text claims that Katy Perry engaged in high-fuel-consumption space tourism in April 2025 and then attended an event in Davos to raise awareness for the environment. This text is paired with two images: on the left, a close-up of Katy Perry in a blue astronaut-style suit holding a single daisy, and on the right, a photo of her walking alongside Canadian Prime Minister Justin Trudeau at an event.
+
+Behavioral Analysis:
+The user's visual journey begins by reading the text to establish context. The gaze moves from left to right along the second sentence, fixating briefly on "she" and then pausing more significantly on the keyword "environment," indicating they have absorbed the post's central ironic claim. The user's attention then drops from the text to the images. There is a very brief fixation on a background figure in the right-hand photo before the gaze moves decisively to the left-hand photo. The final and most focused fixation lands on the small flower Katy Perry is holding, isolating it from the rest of the image.
+
+Key Insight:
+The "Hero Element" is the daisy flower held by Katy Perry in the left image. After understanding the post's textual accusation of hypocrisy, the user's gaze seeks out a visual element that reinforces this theme. The flower, a symbol of nature and the environment, creates a powerful visual contrast against the astronaut suit and the context of space tourism, making it the most symbolically potent and engaging detail in the composition.

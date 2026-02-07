@@ -1,0 +1,8 @@
+Stimulus Overview:
+The image displays a dimly lit and cozy living room with an eclectic, bohemian decor style. The main features include a dark green velvet sofa, a low wooden coffee table with lit candles, and a prominent gallery wall behind the sofa. This wall is densely decorated with various framed art pieces, mirrors, and decorative plates. To the right, there are floating wooden shelves holding books and decorative objects, and a large potted plant stands in the corner.
+
+Behavioral Analysis:
+The user's visual journey begins on the gallery wall, indicating an immediate interest in the decorative elements rather than the larger furniture. The gaze first lands on a patterned, circular plate for about one second. It then shifts to a small square mirror, and then to a larger rectangular, gold-framed mirror, where it dwells for approximately two seconds. The final fixation is a jump to the top wooden shelf, where the gaze remains for the last two seconds of the video. The user's scanpath is an exploration of the smaller, curated objects that define the room's style, completely bypassing the sofa and coffee table in the foreground.
+
+Key Insight:
+The hero element is the top floating shelf with its collection of decorative items. It captured the user's attention for the longest duration alongside the gold mirror and was the final point of fixation, suggesting it was the most compelling part of the room's decor for the viewer.

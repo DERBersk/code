@@ -1,0 +1,8 @@
+Stimulus Overview:
+The image is a split-panel composition used for comparison. The left side features a historic, black-and-white photograph known as "The Last Jew in Vinnitsa," which depicts a Nazi soldier aiming a pistol at a Jewish man kneeling before a mass grave during the Holocaust. The right side shows a modern, color image of a man on his knees on a street at night, being apprehended by figures in contemporary tactical gear. The overall stimulus is a form of visual commentary, juxtaposing the historical atrocity with a contemporary act of force to draw a parallel.
+
+Behavioral Analysis:
+The user's visual journey begins with an immediate and sustained focus on the man kneeling on the ground in the modern image on the right. After approximately one second, the gaze moves to the historical image on the left, briefly landing on the soldier standing on the far left. The focus then jumps back to the right-hand image, this time to the leg of the person in tactical gear standing over the kneeling man. The scanpath is not a linear reading pattern but a series of targeted fixations, indicating the user is actively comparing the corresponding elements and roles of the figures in both scenes.
+
+Key Insight:
+The "Hero Element" is the man on his knees in the modern photograph on the right. This figure captured the user's initial and longest period of visual attention, serving as the anchor point for the subsequent comparative analysis of the two images.

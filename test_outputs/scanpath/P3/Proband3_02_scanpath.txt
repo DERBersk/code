@@ -1,0 +1,8 @@
+Stimulus Overview:
+The image is a stylized, graphic illustration depicting a business meeting. A central figure in a red suit is presenting to a group of executives seated around a table. From an open briefcase on the table, dollar sign symbols float upwards. Behind the presenter, a dramatic, cosmic-themed world map with financial charts and graphs explodes outwards, suggesting global ambition and high-stakes finance. The overall tone is dark and serious, with red as a prominent accent color.
+
+Behavioral Analysis:
+The user's visual journey is exploratory, focusing on key narrative elements rather than following a standard reading pattern. The scanpath begins on the most unusual detail of the central presenter, then moves to a prominent figure in the audience, before sampling symbolic financial details in the background, and finally examining another audience member. This pattern suggests the user is trying to quickly decode the story and relationships within the scene by fixating on the most salient characters and symbols.
+
+Key Insight:
+The "Hero Element" is the red circle of clown makeup on the central presenter's cheek. It was the user's initial point of fixation and is the most thematically incongruous detail in the image, immediately raising questions about the presenter's credibility and the nature of the business deal being pitched.

@@ -1,0 +1,8 @@
+Stimulus Overview:
+The image is a side-by-side composite, creating a visual parallel between two scenes of subjugation. On the left is a historical, black-and-white photograph depicting a Nazi officer standing over a civilian during what appears to be the Holocaust. On the right is a modern, color photograph showing individuals in tactical gear, one of whom is standing over a man on the ground in an urban setting at night. The composition of both images is intentionally similar to suggest a comparison between the historical event and the contemporary one.
+
+Behavioral Analysis:
+The user's visual journey is comparative, moving between the key figures in each panel to understand the parallel being drawn. The scanpath begins on the historical aggressor, the Nazi officer on the left, to establish the context. The user's gaze then jumps to the modern victim on the right, the man on the ground. Next, the user looks at the modern aggressor standing over him before returning their gaze back to the man on the ground. This re-visitation indicates the user is confirming the visual comparison and focusing on the parallel between the two victims.
+
+Key Insight:
+The "Hero Element" is the man on the ground in the modern photograph on the right. This figure received the most focused attention, including the only re-visitation, suggesting it was the most impactful or engaging element for the user as they processed the image's controversial comparison.

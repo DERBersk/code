@@ -1,0 +1,8 @@
+Stimulus Overview:
+The image depicts a group of people gathered around a campfire at night. The foreground is dark, showing the silhouettes of the people and the warm glow of the fire. The background features a dramatic, large, snow-capped mountain range illuminated against the dark sky, serving as the main focal point of the scene.
+
+Behavioral Analysis:
+The user’s gaze immediately bypasses the people and the campfire in the foreground, moving directly to the brightly lit mountain range in the background. The scanpath then proceeds to trace the peaks and ridges of the mountains from left to right for the entire duration of the video. The user dedicates all of their visual attention to exploring the details of the landscape, showing no interest in the social gathering in the foreground.
+
+Key Insight:
+The hero element is the snow-capped mountain range. The strong visual contrast and majestic nature of the landscape completely captured the user's attention, making it the sole object of interest.

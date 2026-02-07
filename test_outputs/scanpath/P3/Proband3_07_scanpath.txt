@@ -1,0 +1,8 @@
+Stimulus Overview:
+The image is an infographic titled "High Protein Sources" from the social media account "@foodfuly". It displays sixteen different food items arranged in a four-by-four grid. Each entry includes a picture of the food, its name, a serving size in ounces, and its corresponding protein content in grams.
+
+Behavioral Analysis:
+The user's viewing pattern is non-linear, suggesting they are scanning for specific information rather than reading comprehensively. Their gaze begins on "Milk" in the third row, then jumps up to "Eggs," moves right to "Shrimp," then diagonally down to "Edamame," and finally moves left to "Tofu." This path indicates a selective comparison of protein values among various non-meat and plant-based options, largely ignoring the top row of meats and the bottom row of grains and legumes.
+
+Key Insight:
+The Hero Element is "Shrimp." The user's gaze dwelled on this item for the longest duration compared to the other fixations. The focus on the text "Shrimp (3.5 oz) 20g" suggests that this specific protein-to-serving-size ratio was the most engaging or surprising piece of information for the user during their scan.

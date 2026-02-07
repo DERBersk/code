@@ -1,0 +1,8 @@
+Stimulus Overview:
+The image is a digital collage with a dark, moody, and academic aesthetic. It's composed of various smaller images layered on top of each other, creating a scrapbook or mood board effect. Elements include a vintage typewriter, a handwritten note saying "I am going to make a very beautiful life for myself," a basket of bread, a library scene, a cup of coffee with latte art, a passport, a stack of money, and a historical photo of a protest where a child holds a sign that reads "girls are strong."
+
+Behavioral Analysis:
+The user's visual journey begins with a central, comforting element—the latte art on the coffee. The gaze then jumps to a small polaroid picture before settling for a longer duration on the image of a child at a protest. The user's attention scans the child and the sign they are holding. Following this, the gaze moves quickly to other symbolic items: first to a stack of money tied with a ribbon, and then to a passport. The scanpath is not linear but rather a series of fixations on distinct, thematically rich objects within the collage, suggesting an exploration of the different ideas presented.
+
+Key Insight:
+The "Hero Element" is the image of the young girl holding the "girls are strong" protest sign. This element captured the user's attention for the longest duration, with the gaze lingering and moving around the subject, indicating a higher level of cognitive engagement compared to the other objects that were glanced at more briefly.

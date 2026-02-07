@@ -1,0 +1,8 @@
+Stimulus Overview:
+The image is a still frame from an action sequence, appearing to be from the film "Indiana Jones and the Last Crusade." The scene depicts the protagonist, Indiana Jones, engaged in a fight with a Nazi soldier on top of a moving tank. Other soldiers are visible in the background.
+
+Behavioral Analysis:
+The user's visual journey is focused on identifying the characters and understanding the conflict. The gaze begins on the main character, Indiana Jones, specifically his head and hat. It then moves directly to a key identifying feature of the antagonist, the swastika armband, dwelling there for a noticeable period. Following this identification, the gaze briefly assesses the antagonist's face before shifting to a background character on the left, gathering more contextual information about the scene. The scanpath is driven by a need to quickly establish the identities and affiliations of the individuals in the struggle.
+
+Key Insight:
+The Hero Element is the Nazi armband. It received the most significant dwell time and is crucial for interpreting the narrative of the image. This symbol immediately identifies the antagonist and provides the historical and contextual framework for the action, making it the most information-rich point of focus for the viewer.

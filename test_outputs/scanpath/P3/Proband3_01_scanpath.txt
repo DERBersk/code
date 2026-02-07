@@ -1,0 +1,8 @@
+Stimulus Overview:
+The image depicts a lecture or technical presentation in a dimly lit room. A male presenter stands at the front, gesturing towards a large projector screen that displays lines of computer code. An audience is seated in rows facing the presenter and the screen. The setting appears to be a classroom, conference room, or a similar educational or corporate environment.
+
+Behavioral Analysis:
+The user's visual journey begins by focusing on the presenter's face, a common initial fixation point in social scenes. The gaze then shifts to the projector screen, landing directly on a red dot that highlights a specific line of code. The user's attention tracks this highlighted point as it moves to another location on the screen, indicating active engagement with the content being presented. Following this, the user's gaze moves away from the screen and briefly scans two different audience members, one on the left and another on the right, before the video ends. This pattern suggests the user was first orienting to the speaker, then deeply engaging with the specific details of the presentation, and finally making a quick survey of the other attendees.
+
+Key Insight:
+The hero element is the projector screen displaying the code. This area commanded the longest and most focused attention, as evidenced by the user actively tracking the highlighted points within the code. While the presenter's face was the initial anchor, the specific content on the screen held the user's cognitive engagement for the most significant duration.

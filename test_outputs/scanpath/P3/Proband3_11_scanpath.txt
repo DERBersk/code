@@ -1,0 +1,8 @@
+Stimulus Overview:
+The image captures a group of people sitting around a campfire at night. The setting appears to be in a mountainous region, as large, snow-capped mountains are visible in the background against a dark sky. The overall mood is cozy and social, with the fire providing a warm, central light source.
+
+Behavioral Analysis:
+The user's visual journey begins by focusing on a woman in a light-colored sweater positioned directly across the campfire. Their gaze then jumps to the top of the image to scan the contrasting white peaks of the snow-covered mountains. Following this, their attention moves to the right side of the group, first fixating on a person in a pink top and then on a brightly lit laptop screen on that person's lap. The user then returns their gaze to the first woman in the light sweater for a second look. The scanpath concludes in the lower-left foreground on a patterned object, possibly a blanket or bag. The user systematically scans the main points of interest—people, the dramatic landscape, and sources of light.
+
+Key Insight:
+The Hero Element is the woman in the light-colored sweater. She is the initial point of fixation and the only element the user revisits, which strongly indicates she is the focal point of the user's attention within the scene.

@@ -1,0 +1,8 @@
+Stimulus Overview:
+The image is a social media infographic from the account @foodfuly, titled "High Protein Sources." It displays a 4x4 grid of 16 different food items. Each item includes a picture, its name, a serving size in ounces (oz), and the corresponding amount of protein in grams (g). The foods represent a variety of categories, including meats, seafood, dairy, and plant-based options.
+
+Behavioral Analysis:
+The user does not follow a standard reading pattern. Instead, they engage in a selective, information-seeking scanpath, suggesting they are comparing specific items rather than reading the entire infographic. The journey begins with a fixation on the image of the Turkey Breast. The user's gaze then jumps down to the text for Eggs, specifically the protein content. Following this, their attention moves sequentially to the protein counts for Shrimp, then Tofu, and finally Chickpeas. This pattern indicates the user's primary goal shifted from general browsing (looking at the turkey image) to actively extracting and comparing the numerical protein data for different types of foods, with a clear progression from animal-based to plant-based sources.
+
+Key Insight:
+The "Hero Element" is the Chickpeas. While the user views several items, the scanpath culminates in a focused comparison of plant-based proteins (Tofu, then Chickpeas). The final fixation on Chickpeas suggests it was the terminal point of their comparative query, making it the most significant element in their visual journey.

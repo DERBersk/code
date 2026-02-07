@@ -1,0 +1,8 @@
+Stimulus Overview:
+The image depicts a crowded outdoor scene, likely a political protest or rally. Participants are holding various flags, including a large LGBTQ+ Pride flag and several American flags. Many people are wearing face masks, suggesting the event took place during the COVID-19 pandemic. The central focus is a person holding a sign.
+
+Behavioral Analysis:
+The user's visual journey began with an immediate and sustained focus on a protest sign held by an individual in the center of the crowd. The user spent approximately two seconds reading the text on the sign, which reads, "WHEN WE COUNT, DEMOCRACY WINS." Following this, the user's gaze briefly jumped to a smaller rainbow flag in the background, then to another sign, and finally to the face of a man standing near the sign-holder. These subsequent fixations were rapid and brief, indicating a secondary scan of the surrounding environment after processing the primary message.
+
+Key Insight:
+The hero element is the protest sign with the text "WHEN WE COUNT, DEMOCRACY WINS." It captured and held the user's attention for the longest duration, serving as the anchor for their visual experience before they scanned the rest of the scene for additional context.

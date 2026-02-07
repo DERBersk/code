@@ -1,0 +1,8 @@
+Stimulus Overview:
+The image captures a pro-Trump rally on the steps of a large, classical-style building. Several individuals are present, holding signs and American flags. A man in the center is the focal point, holding one sign that reads "BAN THIS" above the name "TRUMP," and another with a dreamcatcher that says "HAVE A GREAT WKND BLESS U." Other visible signs identify the participants as part of the "Minnesota Chapter Bikers for Trump."
+
+Behavioral Analysis:
+The user's visual journey is focused on understanding the message and affiliation of the protestors. The scanpath begins on the large, centrally-located text "GREAT" on the main protestor's sign. The user then shifts to identify the organizing group by focusing on a "Bikers for Trump" logo on a sign to the left. Next, the gaze moves to the key political name, "TRUMP," on another sign, before assessing the face of the central protestor. The user briefly scans another individual in the background before their gaze lands on a second "Bikers for Trump" sign on the right, confirming the group's identity. This pattern indicates an effort to first read the primary messages and then identify the specific group responsible for the rally.
+
+Key Insight:
+The "Hero Element" is the "Bikers for Trump" signage. This element was fixated on twice in different locations within the image, suggesting the user was most interested in, or perhaps surprised by, the specific identity of the group organizing the protest. The repeated attention to this branding over other text indicates it was the most significant piece of information for the viewer.

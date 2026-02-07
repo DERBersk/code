@@ -1,0 +1,8 @@
+Stimulus Overview:
+The image is a four-panel political meme. The top row compares a cartoon depiction of Donald Trump and Lisa Simpson from "The Simpsons" with a real photograph of Donald Trump and Greta Thunberg. The central, most prominent panel shows an edited image of Greta Thunberg at a podium, with a pink sweater and a red clown nose added. The bottom row shows two more scenes from "The Simpsons": one of Lisa Simpson speaking at a podium and another of a newspaper headline that reads "Pushy Kid Nags Town." The meme appears to draw a critical parallel between Lisa Simpson and Greta Thunberg.
+
+Behavioral Analysis:
+The user's gaze immediately lands on the edited image of Greta Thunberg in the central panel, focusing directly on the added red clown nose. The gaze then moves up to the top row, briefly scanning the cartoon version of Donald Trump before shifting to the real photograph of him. After dwelling on the real Trump's face, the gaze returns to the central panel, fixating once again on Thunberg's clown nose. The user's visual path suggests they were primarily engaged in processing the central edited image and the comparison between the two depictions of Donald Trump, while largely ignoring the bottom panels related to Lisa Simpson.
+
+Key Insight:
+The "Hero Element" is the edited image of Greta Thunberg, specifically the red clown nose. This element captured the user's initial and final attention, indicating it was the most salient and engaging part of the meme for the viewer.

@@ -1,0 +1,8 @@
+Stimulus Overview:
+The image depicts a group of people gathered around a campfire at night. The setting appears to be a campsite or patio in a mountainous region. In the background, a large, dramatic range of snow-capped mountains is visible against the dark sky. The campfire is the primary light source, illuminating the faces and figures of the people closest to it, creating a cozy and intimate atmosphere contrasted with the vast, wild landscape.
+
+Behavioral Analysis:
+The user's visual journey begins by focusing on a person with blonde hair sitting opposite the fire, who is well-illuminated and centrally positioned within the group. The gaze then shifts to the snow-capped mountains in the background, a significant jump indicating an interest in the environment and overall context of the scene. After briefly scanning a darker section of the mountainside, the user’s attention is drawn down to the campfire itself, the central and brightest element. The scanpath concludes by moving to another person sitting within the group, suggesting a circular exploration of the scene's key components: the people, the environment, and the central gathering point.
+
+Key Insight:
+The hero element is the snow-capped mountain range. While the user's gaze explores the social gathering around the fire, the deliberate and significant shift to the distant mountains indicates that this dramatic backdrop is what captures the most interest and defines the unique character of the photograph. It provides the essential context and "wow" factor that elevates the scene beyond a simple campfire gathering.

@@ -1,0 +1,8 @@
+Stimulus Overview:
+The image is a top-down, aerial photograph showing two individuals on separate paddleboards in dark, clear ocean water. One person is lying down on a blue paddleboard, while the other is sitting up on a white and blue paddleboard. Several large sharks are visible in the water, swimming around the two boards.
+
+Behavioral Analysis:
+The user's gaze begins on the blue paddleboard, first briefly fixating on a white bag before moving down to the person lying on the board. The attention then shifts away from the people and moves to a shark swimming at the top of the frame. After this, the gaze scans to the second person, who is sitting on the adjacent paddleboard. Finally, the user's attention is drawn to another shark swimming to the right of the paddleboards. The visual path suggests the user first identified the human subjects and then immediately became aware of and began to investigate the surrounding sharks, assessing the overall context of the scene.
+
+Key Insight:
+The "Hero Element" is the collection of sharks swimming around the paddleboards. While the people are the initial subjects, the user's gaze quickly and repeatedly shifts to the sharks. This indicates that the surprising and potentially dangerous context provided by the sharks is the most engaging and compelling aspect of the image.

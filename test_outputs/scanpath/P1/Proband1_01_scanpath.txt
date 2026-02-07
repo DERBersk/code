@@ -1,0 +1,8 @@
+Stimulus Overview:
+The image shows a presenter giving a lecture or presentation to an audience in a conference room or classroom. The presenter, a man in a t-shirt, stands in front of a large projector screen that displays lines of computer code. The room is dimly lit, and the audience is seated in rows facing the speaker.
+
+Behavioral Analysis:
+The user's gaze initially lands on the presenter, specifically focusing on his torso for approximately three seconds. The attention then briefly shifts to the right, glancing at one of the audience members in the front row. Finally, the user's gaze moves to the projector screen, where it settles on the lines of code being displayed for the rest of the video. This scanpath suggests the user first oriented themselves by identifying the speaker before turning their attention to the content being presented.
+
+Key Insight:
+The projector screen showing the computer code is the hero element. After a brief initial focus on the speaker to establish context, the user's attention moved to and remained on the screen, indicating that the information displayed there was the primary point of interest.

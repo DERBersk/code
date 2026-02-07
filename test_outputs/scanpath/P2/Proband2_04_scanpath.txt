@@ -1,0 +1,8 @@
+Stimulus Overview:
+The stimulus is a digital collage composed of multiple images featuring cute animals. The overall aesthetic is soft and muted, with the images arranged in a grid-like, overlapping fashion against a dark background. The animals depicted include a calf, a dog, a fawn, a Corgi, a bird, a rabbit, a cat, a Dalmatian, and an alpaca, among others.
+
+Behavioral Analysis:
+The user's visual journey begins with a brief fixation on a white calf in the upper-central portion of the collage. The gaze then moves down and to the right to a small, light-colored dog. From there, the user's attention shifts left to a fawn among flowers. The scanpath then makes a significant jump down to a prominently featured Corgi near the bottom-center. This fixation is slightly longer than the previous ones. The final fixation moves directly up from the Corgi to a pink bird positioned just above it. The user systematically scanned individual animal subjects, ignoring the background elements, in a rapid, exploratory manner.
+
+Key Insight:
+The Hero Element is the Corgi. It captured a slightly longer dwell time compared to the other elements scanned and served as an anchor point from which the user explored the adjacent bird, indicating a concentrated area of interest in the lower-center of the collage.

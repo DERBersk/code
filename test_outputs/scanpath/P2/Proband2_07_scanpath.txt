@@ -1,0 +1,8 @@
+Stimulus Overview:
+The image is a social media infographic titled "High Protein Sources" from the account @foodfuly. It displays 16 different food items arranged in a four-by-four grid. Each food is pictured in a small bowl or on a plate, labeled with its name, a serving size in ounces, and the corresponding protein content in grams. The overall aesthetic is dark and clean, designed for easy comparison of protein values.
+
+Behavioral Analysis:
+The user's gaze immediately lands on the second row, second column, focusing on the "Eggs". The user dwells here for a moment before the gaze makes a quick, un-fixated saccade across "Shrimp" and "Greek Yogurt" and then down to the caption text at the very bottom of the post. After briefly scanning the text, the user's attention jumps to the top row, first fixating on "Chicken Breast" and then shifting to "Turkey Breast" where another brief fixation occurs. The scanpath is not linear; instead, it's a targeted exploration, starting with a specific item of interest (Eggs), checking the post's context (caption), and then comparing with other items at the top of the list.
+
+Key Insight:
+The "Hero Element" is the entry for Eggs. This was the user's first and longest point of fixation, indicating it was the primary element that captured their attention from the entire grid of options.

@@ -1,0 +1,8 @@
+Stimulus Overview:
+The stimulus is a diptych that juxtaposes two images of violence. The left panel is the famous historical black-and-white photograph, "The Last Jew in Vinnitsa," which shows a Nazi soldier standing over a Jewish man moments before his execution. The right panel is a modern, color photograph depicting a person in tactical gear kicking or stomping on another person who is kneeling on a street at night. The image is designed to create a direct visual and thematic parallel between the two events.
+
+Behavioral Analysis:
+The user immediately engages in a comparative analysis, focusing entirely on the perpetrators in both images. The visual journey begins on the Nazi soldier in the historical photo. The gaze then shifts to the right panel, first to the act of violence (the kick) and then to the upper body of the modern aggressor. The user revisits the kick before their gaze returns to the original anchor point, the Nazi soldier. This scanpath shows the user is not just viewing two separate images but is actively processing the relationship between them, comparing the actions and figures of the aggressors across different eras.
+
+Key Insight:
+The Hero Element is the juxtaposition of the two aggressors. The user's attention is captured not by one single figure but by the explicit comparison being made between the Nazi soldier and the modern individual in tactical gear, using them as cognitive anchors to understand the image's intended message.

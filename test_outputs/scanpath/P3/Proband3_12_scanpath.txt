@@ -1,0 +1,8 @@
+Stimulus Overview:
+The stimulus is a social media post, likely from Twitter, structured as a meme. It features a text caption at the top that juxtaposes two images of the celebrity Katy Perry. The text claims she burned a large amount of fuel for space tourism in April 2025 and then attended an event in Davos to raise environmental awareness. The left image shows a close-up of Perry in a flight suit holding a small flower. The right image shows her at a formal event, walking alongside Canadian Prime Minister Justin Trudeau. The overall message is an accusation of hypocrisy.
+
+Behavioral Analysis:
+The user does not follow a standard reading pattern. Their visual journey begins with the most visually incongruous detail: the small flower held by Perry in the flight suit. After this initial fixation, the user performs a quick, orienting scan of the second image before moving their attention to the text caption. They then scan key words in the text—"arrived," "raise," and "environment"—suggesting a goal of quickly comprehending the post's central argument rather than reading it word-for-word. The viewing pattern indicates the user was first drawn in by an unusual visual and then sought the text for an explanation.
+
+Key Insight:
+The "Hero Element" is the text caption. While the user's gaze first landed on the flower in the image, their cognitive effort was directed toward understanding the narrative presented in the text. The scan path across the key words in the sentence shows a clear intent to decode the post's meaning, which is essential for understanding the intended criticism of the celebrity. The text is what resolves the visual contrast between the two images and delivers the post's punchline.

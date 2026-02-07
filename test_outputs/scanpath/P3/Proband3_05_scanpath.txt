@@ -1,0 +1,8 @@
+Stimulus Overview
+The image is a political cartoon that uses a bullfighting metaphor to depict the conflict between Ukraine and Russia. In the foreground, a caricature of Ukrainian President Volodymyr Zelenskyy is dressed as a matador with a clown nose, holding the Ukrainian flag as a muleta (cape). He is facing a bull that is colored with the Russian flag. The background shows a crowded audience of caricatured world leaders, including Joe Biden, Donald Trump, Xi Jinping, and Emmanuel Macron, observing the confrontation.
+
+Behavioral Analysis
+The user’s visual scanpath begins by focusing on the central action in the foreground. The first fixation is on the matador figure, Zelenskyy, establishing the main protagonist. The gaze then shifts to his opponent, the Russian bull, to understand the core conflict. After processing the primary scene, the user’s attention moves to the background, systematically scanning the audience of world leaders from left to right. This behavior suggests an initial effort to grasp the main narrative, followed by a detailed exploration of the secondary characters to understand the broader geopolitical context presented by the artist.
+
+Key Insight
+The Hero Element is the caricature of Volodymyr Zelenskyy. The user’s gaze lands on and returns to this figure, making it the primary visual anchor of the entire composition. The initial, sustained focus on Zelenskyy before exploring any other part of the detailed image indicates that his portrayal as the central actor in this geopolitical "bullfight" was the most engaging and important element for the viewer.

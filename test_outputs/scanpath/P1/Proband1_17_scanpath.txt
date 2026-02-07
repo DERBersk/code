@@ -1,0 +1,8 @@
+Stimulus Overview:
+The image is a top-down aerial photograph showing two people on separate paddleboards in dark, clear water. One person is lying on their stomach on a blue paddleboard, while the other is sitting upright on a white and blue paddleboard, holding a paddle. Several sharks are visible in the water, swimming around the paddleboards.
+
+Behavioral Analysis:
+The user's gaze initially lands on a shark in the upper portion of the frame, quickly identifying the environmental context. The attention then shifts downward, moving between the two individuals on the paddleboards. The user first fixates on the person lying down, then moves to the person sitting up, dwelling there for a longer period. After a brief look back at the first person, the gaze returns to the person sitting up for a second, extended fixation. The user seems to be comparing the two people and their reactions to the presence of sharks.
+
+Key Insight:
+The Hero Element is the person sitting upright on the white and blue paddleboard. This individual commanded the most visual attention, evidenced by longer dwell times and being the only element the user revisited for a second look. Their active, seated posture likely made them a more engaging focal point than the person lying down.

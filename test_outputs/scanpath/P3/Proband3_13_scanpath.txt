@@ -1,0 +1,8 @@
+Stimulus Overview:
+The image is a still frame from the film "Indiana Jones and the Last Crusade." It depicts a fight scene on top of a moving tank. The character Indiana Jones, wearing his signature fedora, is engaged in combat with a German soldier who is lying on his back. In the background, other German soldiers are visible. The overall tone is dark and action-oriented.
+
+Behavioral Analysis:
+The user's visual journey begins with a direct fixation on the German soldier in the foreground. The gaze first lands on the soldier's cap, then quickly moves down to his leg and boot. This suggests an initial process of identifying the character at the center of the action. Following this, the user's attention shifts to the background, systematically scanning the other soldiers present in the scene, first one on the right and then another further to the left. The scanpath is not a standard reading pattern but rather a feature-driven exploration, moving from one human figure to another to assess the overall scene.
+
+Key Insight:
+The "Hero Element" is the German soldier in the foreground. He is the first and most prominent character the user focuses on, receiving the initial and most sustained period of attention before the user begins a broader scan of the background elements for context.

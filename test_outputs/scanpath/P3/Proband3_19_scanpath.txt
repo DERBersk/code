@@ -1,0 +1,8 @@
+Stimulus Overview:
+The image captures a political rally, apparently in support of Donald Trump, on the steps of a large, classical-style government building. Several attendees are holding handmade signs. The central figure, a man in a dark jacket, holds two signs. One has a dreamcatcher and reads "HAVE A GREAT WKND BLESS U," while the other, held high, says "BAN THIS" above a drawing and the word "TRUMP." Other signs in the crowd read "BIKERS FOR SUPPORT PRESIDENT DONALD TRUMP" and "MINNESOTA CHAPTER BIKERS FOR TRUMP."
+
+Behavioral Analysis:
+The user's visual journey is focused on deciphering the messages on the various protest signs to understand the scene. The scanpath begins on the lower, more legible sign held by the central figure, reading the positive message. The gaze then immediately jumps to the more visually complex and ambiguous sign held above his head, "BAN THIS TRUMP." The user spends a significant amount of time fixating on the words and the central drawing on this sign, indicating an attempt to resolve its confusing message within the context of a pro-Trump rally. Finally, the user scans the surrounding signs to the left, which provide clear context that the event is a "Bikers for Trump" gathering. The user's goal was to read and comprehend the scene, focusing on the most confusing element last.
+
+Key Insight:
+The hero element is the "BAN THIS TRUMP" sign. This sign attracted the longest and most focused gaze duration. Its ambiguous and contradictory message, particularly the drawing between the words, required the most cognitive effort from the user to interpret, making it the most engaging component of the image.

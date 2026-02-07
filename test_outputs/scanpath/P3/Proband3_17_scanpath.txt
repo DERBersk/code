@@ -1,0 +1,8 @@
+Stimulus Overview:
+The image is a top-down aerial photograph of two people on separate paddleboards in dark, teal-colored water. Several sharks are visible swimming in the water around the paddleboards. One person, a woman in a yellow bikini, is lying down on a blue paddleboard. The other person is sitting up on a white and blue paddleboard, holding a paddle. The scene appears to be from a tropical location, likely a personal travel or adventure photo.
+
+Behavioral Analysis:
+The user's gaze initially lands on the paddle held by the person sitting up. It then quickly moves to the person lying down on the other board, scanning their body before fixating on their head and torso. The user's attention is then drawn away to a shark swimming at the top of the frame, resulting in a distinct fixation. Following this, the gaze returns directly to the person lying down, where it remains for the rest of the duration. This pattern of looking at the person, then the environmental context (the shark), and then immediately returning to the same person indicates a strong primary interest in that individual.
+
+Key Insight:
+The hero element is the person lying down on the blue paddleboard. Despite the visually compelling and potentially alarming presence of sharks, the user dedicated the most viewing time and returned their gaze to this individual, suggesting they were the most engaging subject in the image.

@@ -1,0 +1,8 @@
+Stimulus Overview:
+The image is a dark, moody collage or mood board with an aesthetic often referred to as "dark academia" or "romantic academia." It is composed of various images that evoke themes of creativity, intellectual pursuits, travel, self-empowerment, and simple pleasures. Key elements include a typewriter, a handwritten motivational note, a person writing at a desk, a map with a passport, a protest sign reading "girls are strong," a wicker basket of bread, and a plate with a croissant and coffee. The overall tone is introspective and aspirational.
+
+Behavioral Analysis:
+The user's visual exploration does not follow a structured reading pattern. Instead, the gaze jumps between distinct visual elements within the collage, suggesting an aesthetic appraisal of the composition. The user begins by focusing on the croissant and coffee, then moves to the map and passport. The longest fixation is on the basket of bread in the upper right. Finally, the user briefly re-examines the croissant before shifting to the image of a woman near the top center. The textual elements are largely ignored in favor of the photographic components.
+
+Key Insight:
+The "Hero Element" is the basket of bread. This object received the longest continuous dwell time, indicating it was the most visually engaging component for the user. The focus on this and other food items suggests the user was most drawn to the elements representing comfort, rustic simplicity, and a cozy lifestyle within the broader thematic collage.

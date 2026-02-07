@@ -1,0 +1,8 @@
+Stimulus Overview:
+The image depicts a presentation or lecture in a dimly lit room. A male speaker stands at the front, gesturing towards a large projection screen that displays lines of text or code. An audience is seated in rows facing the speaker, seen primarily from behind. The setting appears to be a corporate or educational environment.
+
+Behavioral Analysis:
+The user's gaze initially lands on the presenter, specifically on the graphic on his t-shirt. This fixation is very brief. The gaze then makes a large jump to the right side of the image, settling on an individual in the audience. The user's attention remains fixed on this person for the rest of the duration, scanning different parts of his head, including the top, his ear, and his glasses. The user did not return to the presenter or scan the rest of the room, indicating a specific and sustained interest in this single audience member.
+
+Key Insight:
+The hero element is the bald man with glasses sitting in the audience. After a cursory glance at the speaker, the user dedicated the vast majority of their viewing time to this individual, making him the undeniable point of interest.
